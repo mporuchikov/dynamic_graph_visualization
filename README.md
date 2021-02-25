@@ -13,3 +13,4 @@
 - ***course_log_to_gephi.ipynb*** код для преобразования лог-файла в список вершин и список ребер
 - ***course_activity_nodes.csv*** вершины
 - ***course_activity_edges.csv*** ребра
+- ***course_participation.gephi*** проект Gephi
